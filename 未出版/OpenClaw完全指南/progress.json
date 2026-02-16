@@ -1,0 +1,462 @@
+{
+  "updated_at": "2026-02-13T08:18:22.956613",
+  "total_sections": 57,
+  "sections": [
+    {
+      "section_id": "0.1",
+      "title": "当AI有了手和脚",
+      "chapter": "序章",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 3000
+    },
+    {
+      "section_id": "1.1",
+      "title": "创始人的退休项目",
+      "chapter": "第一部分",
+      "status": "draft",
+      "word_count": 0,
+      "target_words": 2500
+    },
+    {
+      "section_id": "1.2",
+      "title": "三次更名一种精神",
+      "chapter": "第一部分",
+      "status": "draft",
+      "word_count": 0,
+      "target_words": 2500
+    },
+    {
+      "section_id": "1.3",
+      "title": "爆火数据与原因分析",
+      "chapter": "第一部分",
+      "status": "draft",
+      "word_count": 0,
+      "target_words": 3000
+    },
+    {
+      "section_id": "2.1",
+      "title": "什么是自进化智能体",
+      "chapter": "第一部分",
+      "status": "draft",
+      "word_count": 0,
+      "target_words": 3000
+    },
+    {
+      "section_id": "2.2",
+      "title": "GEPA框架自进化的四大支柱",
+      "chapter": "第一部分",
+      "status": "researched",
+      "word_count": 0,
+      "target_words": 2500
+    },
+    {
+      "section_id": "2.3",
+      "title": "SkillAI的应用程序",
+      "chapter": "第一部分",
+      "status": "researched",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "2.4",
+      "title": "OpenClaw的自进化实例",
+      "chapter": "第一部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "3.1",
+      "title": "整体架构概览",
+      "chapter": "第一部分",
+      "status": "researched",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "3.2",
+      "title": "Gateway系统脊椎",
+      "chapter": "第一部分",
+      "status": "researched",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "3.3",
+      "title": "AgentAI大脑",
+      "chapter": "第一部分",
+      "status": "researched",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "3.4",
+      "title": "Lobster引擎确定性工作流",
+      "chapter": "第一部分",
+      "status": "researched",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "4.1",
+      "title": "安装前的准备",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "4.2",
+      "title": "三种安装方式",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "4.3",
+      "title": "配置Gateway和Agent",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "4.4",
+      "title": "连接消息平台",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "4.5",
+      "title": "安全配置基础",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "5.1",
+      "title": "发现ClawdHub",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "5.2",
+      "title": "安装第一个Skill",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "5.3",
+      "title": "Skill的配置与管理",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "5.4",
+      "title": "创建自定义Skill",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "6.1",
+      "title": "配置MCP服务器",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "6.2",
+      "title": "使用MCP工具",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "6.3",
+      "title": "MCP安全最佳实践",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "6.4",
+      "title": "MCP与Skill的对比",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "7.1",
+      "title": "创建第一个Lobster工作流",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "7.2",
+      "title": "Approval Gates的使用",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "7.3",
+      "title": "混合执行模式",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "7.4",
+      "title": "工作流调试技巧",
+      "chapter": "第二部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "10.1",
+      "title": "自动砍价买车",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "10.2",
+      "title": "研究助手与竞品分析",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "10.3",
+      "title": "代码审查与Bug修复",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "10.4",
+      "title": "自动化测试",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "10.5",
+      "title": "系统监控与告警",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "10.6",
+      "title": "智能客服与自动回复",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "8.1",
+      "title": "日常信息获取",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "8.2",
+      "title": "购物与消费决策",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "8.3",
+      "title": "内容消费与管理",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "9.1",
+      "title": "自动化邮件处理",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "9.2",
+      "title": "智能日程管理",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "9.3",
+      "title": "文档处理与报告生成",
+      "chapter": "第三部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "11.1",
+      "title": "Moltbook的诞生",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "11.2",
+      "title": "150万AI用户的社交网络",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "11.3",
+      "title": "CrustafarianismAI宗教现象",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "11.4",
+      "title": "ShellraiserAI经济系统",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "12.1",
+      "title": "CVE-2026-25253RCE漏洞",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "12.2",
+      "title": "供应链攻击341个恶意Skill",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "12.3",
+      "title": "安全最佳实践",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "12.4",
+      "title": "Docker沙箱配置",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "13.1",
+      "title": "OPC协议解析",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "13.2",
+      "title": "构建自己的Agent协议",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "13.3",
+      "title": "未来展望",
+      "chapter": "第四部分",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "14.1",
+      "title": "OpenClaw与AGI的距离",
+      "chapter": "终章",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "14.2",
+      "title": "2026年的AI应用趋势",
+      "chapter": "终章",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 2000
+    },
+    {
+      "section_id": "14.3",
+      "title": "给开发者和创业者的建议",
+      "chapter": "终章",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "15.1",
+      "title": "立即开始你的第一个Skill",
+      "chapter": "终章",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1500
+    },
+    {
+      "section_id": "15.2",
+      "title": "加入OpenClaw社区",
+      "chapter": "终章",
+      "status": "outline",
+      "word_count": 0,
+      "target_words": 1000
+    }
+  ]
+}

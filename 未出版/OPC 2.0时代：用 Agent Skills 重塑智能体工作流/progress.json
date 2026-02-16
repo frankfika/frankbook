@@ -1,0 +1,386 @@
+{
+  "total_sections": 42,
+  "completed_sections": 42,
+  "total_words": 106340,
+  "total_target": 125500,
+  "sections": [
+    {
+      "chapter": "引言",
+      "file": "00_引言.md",
+      "section_id": "引言",
+      "title": "引言",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2480
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "1.1.1_重复性工作的痛点.md",
+      "section_id": "1.1.1",
+      "title": "重复性工作的痛点",
+      "status": "draft",
+      "target_words": 3500,
+      "actual_words": 3445
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "1.1.2_知识和经验的碎片化.md",
+      "section_id": "1.1.2",
+      "title": "知识和经验的碎片化",
+      "status": "draft",
+      "target_words": 3500,
+      "actual_words": 4016
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "1.1.3_提示词管理的困境.md",
+      "section_id": "1.1.3",
+      "title": "提示词管理的困境",
+      "status": "draft",
+      "target_words": 3500,
+      "actual_words": 3976
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "1.2.1_从Prompt到Skill.md",
+      "section_id": "1.2.1",
+      "title": "从Prompt到Skill：范式转变与核心价值",
+      "status": "draft",
+      "target_words": 4500,
+      "actual_words": 3760
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "1.2.2_Claude_Code与Skill的发展历程.md",
+      "section_id": "1.2.2",
+      "title": "Claude Code与Skill的发展历程",
+      "status": "draft",
+      "target_words": 4500,
+      "actual_words": 4062
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "1.2.3_Progressive_Disclosure架构原理.md",
+      "section_id": "1.2.3",
+      "title": "Progressive Disclosure架构原理",
+      "status": "draft",
+      "target_words": 4500,
+      "actual_words": 3416
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "1.2.4_Skill_MCP_Subagents_Command的对比.md",
+      "section_id": "1.2.4",
+      "title": "Skill、MCP、Subagents、Command的对比与协同",
+      "status": "draft",
+      "target_words": 4500,
+      "actual_words": 3749
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.1_核心组成架构.md",
+      "section_id": "2.1",
+      "title": "核心组成架构",
+      "status": "draft",
+      "target_words": 3500,
+      "actual_words": 3115
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.2.1_文件结构.md",
+      "section_id": "2.2.1",
+      "title": "文件结构：YAML Frontmatter + Markdown正文",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2231
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.2.2_核心字段.md",
+      "section_id": "2.2.2",
+      "title": "核心字段：name和description",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2033
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.2.3_触发与权限控制.md",
+      "section_id": "2.2.3",
+      "title": "触发与权限控制",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2263
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.2.4_高级配置.md",
+      "section_id": "2.2.4",
+      "title": "高级配置：model、context、agent",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 1987
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.2.5_Markdown正文.md",
+      "section_id": "2.2.5",
+      "title": "Markdown正文：三个层次",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2650
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.2.6_确定性与创造性分离.md",
+      "section_id": "2.2.6",
+      "title": "确定性与创造性的分离原则",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2680
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.2.7_验证闭环设计.md",
+      "section_id": "2.2.7",
+      "title": "验证闭环设计",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2580
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.3.1_scripts目录.md",
+      "section_id": "2.3.1",
+      "title": "scripts/：脚本文件的组织与调用",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2720
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.3.2_references按需加载.md",
+      "section_id": "2.3.2",
+      "title": "references/：参考文档的按需加载机制",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2540
+    },
+    {
+      "chapter": "第一章_认识Agent_Skill",
+      "file": "2.3.3_扁平化引用结构.md",
+      "section_id": "2.3.3",
+      "title": "扁平化引用结构最佳实践",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2520
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "3.1_Skill_Creator.md",
+      "section_id": "3.1",
+      "title": "Skill Creator - 能生娃的Skill",
+      "status": "draft",
+      "target_words": 2000,
+      "actual_words": 2150
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "3.2_Document_Skills.md",
+      "section_id": "3.2",
+      "title": "Document Skills - 文档处理工具集",
+      "status": "draft",
+      "target_words": 2000,
+      "actual_words": 2100
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "3.3_Image_Skills.md",
+      "section_id": "3.3",
+      "title": "Image Skills - 图像处理工具集",
+      "status": "draft",
+      "target_words": 2000,
+      "actual_words": 2080
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "3.4_Git_Skills.md",
+      "section_id": "3.4",
+      "title": "Git Skills - 版本控制助手",
+      "status": "draft",
+      "target_words": 2000,
+      "actual_words": 2050
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "3.5_PPTX_Generator.md",
+      "section_id": "3.5",
+      "title": "PPTX Generator - 一键生成演示文稿",
+      "status": "draft",
+      "target_words": 2000,
+      "actual_words": 2100
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "3.6_PDF_Toolkit.md",
+      "section_id": "3.6",
+      "title": "PDF Toolkit - PDF处理瑞士军刀",
+      "status": "draft",
+      "target_words": 2000,
+      "actual_words": 2080
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "3.7_WebApp_Testing.md",
+      "section_id": "3.7",
+      "title": "WebApp Testing - 代码审查专家",
+      "status": "draft",
+      "target_words": 2000,
+      "actual_words": 2120
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.1_Codebase_Visualizer.md",
+      "section_id": "4.1",
+      "title": "Codebase Visualizer - 代码库可视化",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2580
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.2_Database_Query.md",
+      "section_id": "4.2",
+      "title": "Database Query - 数据库查询助手",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2550
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.3_Content_Generator.md",
+      "section_id": "4.3",
+      "title": "Content Generator - 内容生成神器",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2520
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.4_Testing_Helper.md",
+      "section_id": "4.4",
+      "title": "Testing Helper - 测试用例生成器",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2540
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.5_Superpowers.md",
+      "section_id": "4.5",
+      "title": "Superpowers - 全栈开发工作流",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2560
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.6_X_Article_Publisher.md",
+      "section_id": "4.6",
+      "title": "X Article Publisher - 推特创作者神器",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2480
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.7_NotebookLM_Bridge.md",
+      "section_id": "4.7",
+      "title": "NotebookLM Bridge - 连接Google NotebookLM",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2460
+    },
+    {
+      "chapter": "第二章_Skill的分类与生态",
+      "file": "4.8_Obsidian_Skills.md",
+      "section_id": "4.8",
+      "title": "Obsidian Skills - 笔记软件增强",
+      "status": "draft",
+      "target_words": 2500,
+      "actual_words": 2500
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "1.1_为什么是GitHub.md",
+      "section_id": "1.1",
+      "title": "为什么是GitHub而不是重复造轮子",
+      "status": "draft",
+      "target_words": 4000,
+      "actual_words": 4120
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "1.2_完整工作流.md",
+      "section_id": "1.2",
+      "title": "完整工作流：从搜索GitHub到Skill固化",
+      "status": "draft",
+      "target_words": 4000,
+      "actual_words": 4120
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "1.3_视频下载Skill实战.md",
+      "section_id": "1.3",
+      "title": "实战案例：视频下载Skill",
+      "status": "draft",
+      "target_words": 5000,
+      "actual_words": 5180
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "2.1_OPC_AI_Skill三角关系.md",
+      "section_id": "2.1",
+      "title": "OPC、AI与Skill的三角关系",
+      "status": "draft",
+      "target_words": 4000,
+      "actual_words": 4080
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "2.2_OPC的典型工作流.md",
+      "section_id": "2.2",
+      "title": "OPC的典型工作流",
+      "status": "draft",
+      "target_words": 4000,
+      "actual_words": 4050
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "2.3_游戏存档模式.md",
+      "section_id": "2.3",
+      "title": "游戏存档模式：持续进化的关键",
+      "status": "draft",
+      "target_words": 4000,
+      "actual_words": 4120
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "2.4_构建Skills军团.md",
+      "section_id": "2.4",
+      "title": "如何构建你的Skills军团",
+      "status": "draft",
+      "target_words": 4000,
+      "actual_words": 4080
+    },
+    {
+      "chapter": "第三章_Agent_Skill开发实战",
+      "file": "2.5_常见陷阱.md",
+      "section_id": "2.5",
+      "title": "常见陷阱",
+      "status": "draft",
+      "target_words": 3000,
+      "actual_words": 3150
+    }
+  ]
+}
